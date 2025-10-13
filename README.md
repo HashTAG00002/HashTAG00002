@@ -2,7 +2,7 @@
 
 👋 ¡Hola! I’m **Wenkui YANG**,  
 from the Institute of Automation, Chinese Academy of Sciences (**CASIA**) &  
-the School of Advanced Interdisciplinary Sciences (**SAIS**), UCAS.
+the School of Advanced Interdisciplinary Sciences (**SAIS**), University of Chinese Academy of Sciences (**UCAS**).
 
 🤔 Casually, just call me 🌓 **Jianbai Li** or #️⃣ **HashTAG** — either’s fine.
 
