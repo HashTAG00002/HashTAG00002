@@ -1,15 +1,10 @@
 ## Nobody but an AIchemist here
 
-Hi, I’m **Wenkui YANG**,  
-Affiliated with the **Institute of Automation, Chinese Academy of Sciences (CASIA)** :contentReference[oaicite:0]{index=0}  
-and **SAIS, UCAS**（School of Advanced Interdisciplinary Sciences, University of Chinese Academy of Sciences）&#8203;:contentReference[oaicite:1]{index=1}  
+👋 ¡Hola! I'm Wenkui YANG from​ Institute of Automation, Chinese Academy of Sciences (**CASIA**) & School of Advanced Interdisciplinary Sciences (**SAIS**), University of Chinese Academy of Sciences (**UCAS**).
 
-Casually, call me **🌓 Jianbai Li** or **#️⃣ HashTAG** — either’s fine.  
+🤔 Casually, just call me 🌓 Jianbai Li or #️⃣ HashTAG, either’s fine.
 
-📫 Email: **yangwenkui.03@gmail.com (preferred)** | wenkui.yang@cripac.ia.ac.cn | yangwenkui20@mails.ucas.ac.cn | yangwenkui2024@ia.ac.cn  
-
-
-
+📫 Email: **yangwenkui.03@gmail.com (Preferred)** | wenkui.yang@cripac.ia.ac.cn | yangwenkui20@mails.ucas.ac.cn | yangwenkui2024@ia.ac.cn 
 
 <!--
 **HashTAG00002/HashTAG00002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
