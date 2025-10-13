@@ -1,8 +1,8 @@
 ## Nobody but an AIchemist here
 
-👋 ¡Hola! I'm Wenkui YANG from​ Institute of Automation, Chinese Academy of Sciences (**CASIA**) & School of Advanced Interdisciplinary Sciences (**SAIS**), University of Chinese Academy of Sciences (**UCAS**).
+👋 ¡Hola! I'm **Wenkui YANG** from​ Institute of Automation, Chinese Academy of Sciences (**CASIA**) & School of Advanced Interdisciplinary Sciences (**SAIS**), University of Chinese Academy of Sciences (**UCAS**).
 
-🤔 Casually, just call me 🌓 Jianbai Li or #️⃣ HashTAG, either’s fine.
+🤔 Casually, just call me 🌓 **Jianbai Li** or #️⃣ **HashTAG**, either’s fine.
 
 📫 Email: **yangwenkui.03@gmail.com (Preferred)** | wenkui.yang@cripac.ia.ac.cn | yangwenkui20@mails.ucas.ac.cn | yangwenkui2024@ia.ac.cn 
 
