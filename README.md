@@ -1,12 +1,12 @@
 ## Nobody but an AIchemist here
 
-👋 ¡Hola! I’m **Wenkui YANG**, a Ph.D. student at the School of Advanced Interdisciplinary Sciences (**SAIS**), University of Chinese Academy of Sciences (**UCAS**). 
+👋 ¡Hola! I’m **Wenkui YANG （杨文骙）**, a Ph.D. student at the School of Advanced Interdisciplinary Sciences (**SAIS**), University of Chinese Academy of Sciences (**UCAS**). 
 
 I am jointly affiliated with the Intelligence Engineering Lab (**IEL**) at the Institute of Software, Chinese Academy of Sciences (**ISCAS**) and the New Lab of Pattern Recognition (**NLPR**) at the Institute of Automation, Chinese Academy of Sciences (**CASIA**).
 
-Currently, I work on **Agentic AI** under the supervision of [**Prof. Jie Cao**](https://ia.cas.cn/rcdw/fyjy/202409/t20240918_7364721.html) and [**Prof. Ran He**](https://people.ucas.ac.cn/~heran), and on **Agentic UI** under the supervision of [**Prof. Shuai Ma**](https://shuaima.cc/) and [**Prof. Feng Tian**, Ph.D. Advisor](https://people.ucas.ac.cn/~fengt).
+Currently, I work on **Agentic AI** under the supervision of [**Prof. Jie Cao**](https://ia.cas.cn/rcdw/fyjy/202409/t20240918_7364721.html) and [**Prof. Ran He**](https://people.ucas.ac.cn/~heran), and on **Agentic UI** under the supervision of [**Prof. Shuai Ma**](https://shuaima.cc/) and [**Prof. Feng Tian**](https://people.ucas.ac.cn/~fengt) (, Ph.D. Advisor).
 
-🤔 Casually, feel free to call me 🌓 **Jianbai Li** or #️⃣ **HashTAG** — either is fine.
+🤔 Casually, feel free to call me 🌓 **Jianbai Li (离坚白)** or #️⃣ **HashTAG** — either is fine.
 
 
 📫 Email:  
