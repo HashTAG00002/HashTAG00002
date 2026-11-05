@@ -4,7 +4,7 @@
 
 I am jointly affiliated with Intelligence Engineering Lab (**IEL**) at Institute of Software, Chinese Academy of Sciences (**ISCAS**) and New Lab of Pattern Recognition (**NLPR**) at Institute of Automation, Chinese Academy of Sciences (**CASIA**).
 
-Currently, I work on **Agentic AI** under the supervision of [**Prof. Jie CAO**](https://people.ucas.edu.cn/~caojie2026) and [**Prof. Ran HE**](https://people.ucas.ac.cn/~heran), and on **Agentic UI** under the supervision of [**Prof. Shuai MA**](https://shuaima.cc/) and [**Prof. Feng TIAN**](https://people.ucas.ac.cn/~fengt) (Ph.D. Advisor).
+I work on **Agentic AI** under the supervision of [**Prof. Jie CAO**](https://people.ucas.edu.cn/~caojie2026) and [**Prof. Ran HE**](https://people.ucas.ac.cn/~heran) (M.S. Advisor), and on **Agentic UI/UX** under the supervision of [**Prof. Shuai MA**](https://shuaima.cc/) and [**Prof. Feng TIAN**](https://people.ucas.ac.cn/~fengt) (Ph.D. Advisor).
 
 🤔 Casually, feel free to call me 🌓 **Jianbai Li (离坚白)** or #️⃣ **HashTAG** — either is fine.
 
